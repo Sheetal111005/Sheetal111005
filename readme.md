@@ -18,7 +18,7 @@ Happy coding! 💻🌟
 
 ## 🛠 Technologies & Tools
 
-- **Languages**: Python, C
+- **Languages**: Python, C , Java
 - **Core Subjects**: Operating Systems (OS), Database Management Systems (DBMS), Data Structures and Algorithms (DSA)
 - **Web Development**: Basics of HTML, CSS, JavaScript
 - **Tools**: Git, Visual Studio Code
