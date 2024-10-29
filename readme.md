@@ -1,7 +1,13 @@
 # Hello, I'm Sheetal 👋
 
-Welcome to my GitHub profile! I'm a B.Tech 2nd-year student at UPES, passionate about technology and always eager to learn and grow in the field of computer science.
+Hello, world! 🌎👋
+I'm a sophomore pursuing a BTech in Computer Science at UPES, driven by a deep curiosity for data science and a passion for web development. Currently, I’m mastering SQL and honing my Java skills, and I’m all about finding innovative ways to turn my ideas into something amazing and practical.
 
+I’m always on the lookout for collaborative opportunities and am especially excited about open-source projects and creative problem-solving. If you’re passionate about tech like me and eager to innovate, let’s bring our ideas together and create something incredible! 🚀
+
+Let’s revolutionize through innovation, creation, and determination!
+
+Happy coding! 💻🌟
 ## 🚀 About Me
 
 - 🎓 Currently exploring the world of computer science as a B.Tech student.
