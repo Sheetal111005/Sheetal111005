@@ -13,7 +13,7 @@ Happy coding! 💻🌟
 - 🎓 Currently exploring the world of computer science as a B.Tech student.
 - 🌱 Actively learning and expanding my skills in Python, C, and web development.
 - 🤝 Member of UPES CSI (Computer Society of India), open to collaboration on development projects and excited to contribute to open-source initiatives.
-- 📫 Reach me at (mailto:sheetalbijalwan2005@gmail.com).
+- 📫 Reach me at [mailto:sheetalbijalwan2005@gmail.com].
 - ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time!
 
 ## 🛠 Technologies & Tools
