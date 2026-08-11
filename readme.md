@@ -1,42 +1,29 @@
-# Hello, I'm Sheetal 👋
+Hello, I'm Sheetal 👋
 
-Hello, world! 🌎👋
-I'm a sophomore pursuing a BTech in Computer Science at UPES, driven by a deep curiosity for data science and a passion for web development. Currently, I’m mastering SQL and honing my Java skills, and I’m all about finding innovative ways to turn my ideas into something amazing and practical.
+I'm a final-year B.Tech student in Data Science at UPES. I recently completed an AI internship at DRDO's IRDE Lab, where I built offline RAG systems and deployed local LLMs. I'm passionate about turning ML and GenAI research into real, deployable systems — from data preprocessing to REST APIs and containerized deployment.
 
-I’m always on the lookout for collaborative opportunities and am especially excited about open-source projects and creative problem-solving. If you’re passionate about tech like me and eager to innovate, let’s bring our ideas together and create something incredible! 🚀
+I'm always excited to collaborate on open-source projects, especially around applied ML, GenAI, and data engineering. If you're building something interesting in this space, let's connect!
 
-Let’s revolutionize through innovation, creation, and determination!
-
-Happy coding! 💻🌟
-## 🚀 About Me
-
-- 🎓 Currently exploring the world of computer science as a B.Tech student.
-- 🌱 Actively learning and expanding my skills in Python, C, and web development.
-- 🤝 Member of UPES CSI (Computer Society of India), open to collaboration on development projects and excited to contribute to open-source initiatives.
-- 📫 Reach me at [Sheetalbijalwan2005@gmail.com](mailto:sheetalbijalwan2005@gmail.com).
-- ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time!
-
-## 🛠 Technologies & Tools
-
-- **Languages**: Python, C , Java
-- **Core Subjects**: Operating Systems (OS), Database Management Systems (DBMS), Data Structures and Algorithms (DSA)
-- **Web Development**: Basics of HTML, CSS, JavaScript
-- **Tools**: Git, Visual Studio Code
-
-## 🏆 Hackathon Experience
-
-- **Geofencing Attendance System**: Collaborated with a team to create a geofencing-based attendance system that used location-based technology to mark attendance, ensuring accuracy and reducing manual check-ins.
-- **Stock Prediction Module**: Contributed to a machine learning module for stock price prediction, analyzing historical data to forecast stock trends and helping users make informed financial decisions.
-
-## 💼 Projects
-
-- **Geofencing Attendance System**: Developed a prototype that verifies user presence within a specific area using geofencing technology.
-- **Stock Prediction Module**: Assisted in creating a machine learning model that predicts future stock trends based on historical data.
-- **Mini User Authentication**: Implemented a mini user authentication system in C using hash maps to manage user credentials securely.
-
-## 📫 Let's Connect
-
-- [GitHub](https://github.com/Sheetal111005)
-- [LinkedIn](https://www.linkedin.com/in/sheetal-bijalwan-163899288)
+🚀 About Me
+🎓 Final-year B.Tech student in Data Science at UPES, Dehradun
+🔭 Recently built an offline RAG assistant with local LLM deployment as an AI Intern at DRDO's IRDE Lab
+🌱 Deepening my skills in LLM deployment, vector databases, and explainable AI
+🤝 Associate Editor-in-Chief at Computer Society of India (CSI), UPES Chapter
+📫 Reach me at sheetalbijalwan8@gmail.com
+⚡ Fun fact: I enjoy solving algorithmic challenges in my free time!
+🛠 Technologies & Tools
+Languages: Python, SQL, Java, C, C++
+Machine Learning: Scikit-learn, PyTorch, TensorFlow, Feature Engineering, Model Evaluation
+Generative AI & LLMs: RAG, LangChain, LlamaIndex, Prompt Engineering, vLLM, Qwen, Hugging Face, Sentence Transformers
+Vector Databases: Qdrant, ChromaDB
+Deployment & Tools: Docker, FastAPI, Git, GitHub, Linux, Bash, REST APIs
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+💼 Featured Projects
+Offline RAG Assistant (DRDO, IRDE Lab): Built a fully offline RAG system using LlamaIndex for pipeline orchestration, Qdrant for hybrid dense + sparse retrieval, and a local Qwen2.5-3B-Instruct model served via vLLM — containerized with Docker for air-gapped deployment. (Code is confidential/restricted per DRDO policy — not publicly available.)
+Disease Classification System: Ensemble ML model (Random Forest, SVM, Naive Bayes) achieving 92% prediction accuracy, deployed as a Flask REST API with sub-300ms response time.
+Explainable Credit Risk Assessment System: End-to-end backend pipeline with SHAP integration for transparent, explainable credit risk predictions.
+📫 Let's Connect
+LinkedIn
+Email
 
 Feel free to connect for discussions, project collaborations, or just a tech chat!
