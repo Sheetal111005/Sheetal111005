@@ -82,12 +82,11 @@ Python XGBoost SHAP Scikit-learn
 </td> </tr> </table> <br/> <!-- ============ EXPERIENCE TIMELINE ============ -->
 🧭 Journey
 When	What
+
 Jun – Jul 2026	🛰 Software/AI Intern, DRDO IRDE, Dehradun. Built and deployed an offline, containerized LLM backend with a modular retrieval pipeline and NLP-based report generation.
 Jun – Jul 2025	📊 Data Science Intern, Distil Education & Technology. Built Python + SQL pipelines to clean, validate and transform 50,000+ records.
 Aug 2023 – May 2027	🎓 B.Tech (Hons.) CSE, Data Science, UPES Dehradun
-<br/> <!-- ============ GITHUB STATS ============ -->
-📈 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sheetal111005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal111005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheetal111005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheetal111005&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/> </div> <br/> <!-- ============ TROPHIES ============ --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sheetal111005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies"/> </div> <br/> <!-- ============ SNAKE ============ --> <div align="center">
+<br/> <!-- ============ SNAKE ============ --> <div align="center">
 🐍 Snake eating my contributions
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheetal111005/Sheetal111005/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheetal111005/Sheetal111005/output/github-contribution-grid-snake.svg"/> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sheetal111005/Sheetal111005/output/github-contribution-grid-snake-dark.svg"/> </picture> </div> <br/> <!-- ============ CONNECT ============ -->
 🤝 Let's Connect
