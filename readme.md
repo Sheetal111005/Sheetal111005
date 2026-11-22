@@ -6,10 +6,10 @@ I'm a final-year B.Tech (Hons.) CSE student, Data Science specialization, at UPE
 
 This summer I interned at DRDO's IRDE Lab, where I designed and deployed a fully offline LLM stack on an air-gapped server: retrieval, reranking, inference and a UI, all containerized.
 
-I like the unglamorous half of machine learning too: clean data, tested modules, clear APIs, and deployments that keep working after the demo.
+I like the unglamorous half of machine learning too, clean data, tested modules, clear APIs, and deployments that keep working after the demo.
 
 🔭 Currently deepening my skills in LLM deployment, vector databases and explainable AI
-🤝 Associate Editor-in-Chief at the Computer Society of India, UPES Chapter
+🤝 Secretary at the Computer Society of India, UPES Chapter
 ⚡ Fun fact: I solve algorithmic puzzles in my free time
 📫 Reach me at sheetalbijalwan8@gmail.com
 </td> <td width="38%" align="center" valign="middle"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=A78BFA&width=280&height=140&lines=%3E+docker-compose+up+-d;%3E+vllm+serve+qwen2.5-3b-instruct;%3E+qdrant+%E2%86%92+hybrid+search+ready;%3E+reranker+%E2%86%92+loaded;%3E+fastapi+%E2%86%92+listening+on+%3A8000;%3E+offline.+private.+fast." alt="Terminal animation"/> </td> </tr> </table> <br/> <!-- ============ TECH STACK ============ -->
